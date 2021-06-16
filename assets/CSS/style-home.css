@@ -1,28 +1,4 @@
-nav {
-    position: absolute;
-    top: 15px;
-    right: 0;
-}
 
-nav li {
-    display: inline-flex;
-    margin: 0 0 0 15px;
-}
-
-nav a {
-    text-transform: uppercase;
-    color: black;
-    font-weight: bold;
-    font-size: 22px;
-    text-decoration: none;
-
-}
-
-nav a:hover {
-    color: darkgoldenrod;
-    text-decoration: underline;
-
-}
 
 #banner {
     width: 100%;
