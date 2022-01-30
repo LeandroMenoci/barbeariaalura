@@ -1,11 +1,9 @@
-
-
 #banner {
     width: 100%;
 }
 
 .principal {
-    background: #CCCCCC;
+    background: #cccccc;
     padding: 30px;
 }
 
@@ -26,7 +24,7 @@ p {
 }
 
 em strong {
-    color: red;
+    color: #ff0000;
 }
 
 .itens {
@@ -34,12 +32,8 @@ em strong {
 }
 
 .beneficios {
-    background: #FFFFFF;
+    background: #ffffff;
     padding: 20px;
-}
-
-h2 {
-    text-align: center;
 }
 
 ul {
@@ -49,6 +43,6 @@ ul {
     margin-right: 15%;
 }
 
-.imagembeneficios {
+.imagem-beneficios {
     width: 50%;
 }
